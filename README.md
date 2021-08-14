@@ -17,4 +17,4 @@ Charts: Various charts were generated including:
  - Scatterplot comparing K% (Strikeouts) and ERA+ for All Star pitchers, with average MLB Pitcher rating graphed for comparison.
  - Scatterplot comparing BB% (Walks) and ERA+ for All Star pitchers, with average MLB pitcher rating graphed for comparison.
  
-Conclusions:
+Conclusions: In terms of statistical data, strikeout percentage is correlated postitively with all star pitchers' performance (using ERA+ as a benchmark). Additionally, the amount of walks (BB%) did not correlate as much with all star pitchers. We conclude that when looking for future all star pitchers, teams should target players with higher strikeout rates, and they are still worth invetsting in even if they walk players. We also determined there is a height threshold of 6 feet 2 inches among all star pitchers where the likeliness they become and all star jumps significantly. We conclude that pitchers who are 6'2 and have a high strikeout rate (usually over 25%) are more likely to become all star pitchers.
